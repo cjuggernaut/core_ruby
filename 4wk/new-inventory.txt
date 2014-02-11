@@ -1,0 +1,16 @@
+4wk_deaf_granny
+4wk_deaf_granny.rb
+4wk_deaf_granny_b.rb
+4wk_deaf_granny_c.rb
+4wk_deaf_granny_d.rb
+4wk_deaf_granny_e.rb
+dog.rb
+inventory.rb
+inventory_diff.rb
+New folder
+new-inventory.txt
+old-inventory.txt
+rectangle.rb
+rectangle_b.rb
+rectangle_c.rb
+test.txt

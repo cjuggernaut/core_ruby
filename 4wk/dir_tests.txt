@@ -1,0 +1,3 @@
+
+
+Dir.foreach("/") do |x| puts "Got #{x}" }

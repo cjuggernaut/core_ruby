@@ -1,0 +1,8 @@
+get local path
+search local path for files 
+put filenames into an array
+prompt user to select file
+open file for editing
+replace "word" with "inserted word"
+close file
+
